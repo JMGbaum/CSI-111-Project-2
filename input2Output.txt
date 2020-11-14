@@ -1,0 +1,102 @@
+Day: 0
+s s s s s s s
+s s s s s s s
+s s s i i s s
+s s s s s s s
+s s s s s s s
+s s s s s s s
+s s s s s s s
+
+Day: 1
+s s s s s s s
+s s s i i s s
+s s s i i s s
+s s s i i s s
+s s s s s s s
+s s s s s s s
+s s s s s s s
+
+Day: 2
+s s s i i s s
+s s i i i i s
+s s i i i i s
+s s i i i i s
+s s s i i s s
+s s s s s s s
+s s s s s s s
+
+Day: 3
+s s i i i i s
+s i i i i i i
+s i i r r i i
+s i i i i i i
+s s i i i i s
+s s s i i s s
+s s s s s s s
+
+Day: 4
+s i i i i i i
+i i i r r i i
+i i i r r i i
+i i i r r i i
+s i i i i i i
+s s i i i i s
+s s s i i s s
+
+Day: 5
+i i i r r i i
+i i r r r r i
+i i r r r r i
+i i r r r r i
+i i i r r i i
+s i i i i i i
+s s i i i i s
+
+Day: 6
+i i r r r r i
+i r r r r r r
+i r r r r r r
+i r r r r r r
+i i r r r r i
+i i i r r i i
+s i i i i i i
+
+Day: 7
+i r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+i r r r r r r
+i i r r r r i
+i i i r r i i
+
+Day: 8
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+i r r r r r r
+i i r r r r i
+
+Day: 9
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+i r r r r r r
+
+Day: 10
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+
+Outbreak Duration: 10 days
+Peak Day: Day 4
+Peak Infectious Count: 33 people
